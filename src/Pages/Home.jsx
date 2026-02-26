@@ -34,7 +34,7 @@ export const Home = () => {
         <p className="text-gray-600 leading-relaxed max-w-lg">
 I am a passionate Frontend Developer who loves creating modern, responsive, and user-friendly web applications. hii
 I enjoy turning ideas into interactive digital experiences using React and Tailwind CSS. 
-My goal is to continuously improve my skills and build impactful products that make a difference.
+My goal is to continuously improve my skills and build impactful products that make a difference........
 </p>
 
         <div className="flex gap-4 justify-center md:justify-start">
