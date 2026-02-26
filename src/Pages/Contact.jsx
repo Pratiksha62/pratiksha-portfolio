@@ -11,10 +11,10 @@ export const Contact = () => {
         <div className="md:w-1/2 bg-gradient-to-br from-blue-600 to-purple-600 text-white flex items-center justify-center p-10">
           <div className="text-center space-y-4">
             <h1 className="text-3xl md:text-4xl font-extrabold">
-              Hello, How are you?
+              Hey what's up!
             </h1>
             <p className="text-blue-100 text-lg">
-              We'd love to hear from you.
+              what are you up to! would you mind answering these following questions.We'd love to hear from you.
             </p>
           </div>
         </div>
@@ -51,7 +51,7 @@ export const Contact = () => {
                 className="w-full px-4 py-3 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
                 name="email"
                 type="email"
-                placeholder="Something@gmail.com"
+                placeholder="yourusername@gmail.com"
               />
             </div>
 
@@ -63,7 +63,7 @@ export const Contact = () => {
                 className="w-full px-4 py-3 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 transition resize-none"
                 name="Message"
                 rows="4"
-                placeholder="Write Message Here"
+                placeholder="Write Message you want to add here"
               ></textarea>
             </div>
 
